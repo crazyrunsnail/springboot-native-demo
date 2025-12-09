@@ -1,0 +1,19 @@
+[
+  {
+    "name": "org.apache.ibatis.logging.slf4j.Slf4jImpl",
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.logging.log4j2.Log4j2Impl",
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "org.apache.ibatis.logging.jdk14.Jdk14LoggingImpl",
+    "allDeclaredConstructors": true
+  },
+  {
+    "name": "org.mybatis.spring.mapper.ClassPathMapperScanner",
+    "allDeclaredConstructors": true,
+    "allPublicMethods": true
+  }
+]

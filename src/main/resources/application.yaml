@@ -1,3 +1,9 @@
 spring:
   application:
     name: springboot-native-demo
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/springboot_native_demo
+    username: springboot_native_demo
+    password: springboot_native_demo
+    driver-class-name: org.postgresql.Driver
